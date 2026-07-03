@@ -3,7 +3,7 @@
 Reproducibility package for the paper:
 
 > **Auditing Label Reliability and Data Leakage in Auto-Labelled Social-Media Sentiment Corpora: A Case Study on FIFA World Cup Tweets**
-> Md. Maruf Bangabashi, Md. Mahabubur Rahman, Md. Naeem Ahmed Talukder, Mostofa Kamal Nasir.
+> Md. Maruf Bangabashi, Mostofa Kamal Nasir.
 > Submitted to *Progress in Artificial Intelligence* (Springer).
 
 This repository contains everything needed to reproduce the label-quality audit,
@@ -97,8 +97,7 @@ sentiment labels — no annotator identities.
 @article{bangabashi2026audit,
   title   = {Auditing Label Reliability and Data Leakage in Auto-Labelled
              Social-Media Sentiment Corpora: A Case Study on FIFA World Cup Tweets},
-  author  = {Bangabashi, Md. Maruf and Rahman, Md. Mahabubur and
-             Talukder, Md. Naeem Ahmed and Nasir, Mostofa Kamal},
+  author  = {Bangabashi, Md. Maruf and Nasir, Mostofa Kamal},
   journal = {Progress in Artificial Intelligence (under review)},
   year    = {2026}
 }
