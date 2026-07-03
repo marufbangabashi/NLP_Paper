@@ -1,0 +1,17 @@
+# Python 3.10
+# Core analysis (kappa_analysis.ipynb / compute_kappa_ci.py) needs only the first block.
+numpy>=1.23,<2.0
+pandas>=1.5
+openpyxl>=3.1
+
+# Full pipeline (nlp-final.ipynb)
+scikit-learn==1.2.*
+tensorflow>=2.11,<2.16
+torch>=2.0
+transformers>=4.30
+spacy>=3.5
+emoji>=2.0
+matplotlib>=3.6
+seaborn>=0.12
+statsmodels>=0.14
+# after install: python -m spacy download en_core_web_sm
